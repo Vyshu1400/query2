@@ -1,0 +1,9 @@
+POST http://localhost:3002/books/
+
+{
+  "username": "adam_richard",
+  "name": "Adam Richard",
+  "password": "richard_567",
+  "gender": "male",
+  "location": "Detroit"
+}
